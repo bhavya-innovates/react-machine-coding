@@ -1,0 +1,27 @@
+{
+  "name": "react-machine-coding",
+  "version": "1.0.0",
+  "description": "Collection of React &amp; frontend machine coding challenges",
+  "homepage": "https://github.com/bhavya-innovates/react-machine-coding#readme",
+  "bugs": {
+    "url": "https://github.com/bhavya-innovates/react-machine-coding/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhavya-innovates/react-machine-coding.git"
+  },
+  "license": "ISC",
+  "author": "Bhavya Kumari",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  }
+}
